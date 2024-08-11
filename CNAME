@@ -1,1 +1,4 @@
-rishav7058.github.myamazon.com
+Type: CNAME
+Name: rishav7058.github
+Value: username.github.io
+TTL: 3600 (or any default TTL)
